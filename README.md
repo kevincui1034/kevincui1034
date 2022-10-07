@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+🎓 I'm currently a student pursuing a Data Science B.S.
+
+🤔 Current Interests: Full-stack Development, App Development, Deep Learning, AI, Game Development
+
+🏡 Based in the Bay Area, and open for internships!
 
 <!--
 **kevincui1034/kevincui1034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
