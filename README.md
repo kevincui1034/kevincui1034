@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+🧑🏻 Hi! My name is Kevin (he/him) !
+
 🎓 I'm currently a student pursuing a Data Science B.S.
 
 🤔 Current Interests: Full-stack Development, App Development, Deep Learning, AI, Game Development
